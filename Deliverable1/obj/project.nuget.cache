@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORPagSu02fHolZt92PE/SptC8EwW2K/lcn1QuMFBL6l7UvHvXkRc4EXcIybKDb5L6U+RMAXPblZ4XnYt/1zhbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zacho\\source\\repos\\Deliverable1\\Deliverable1\\Deliverable1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zacho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
